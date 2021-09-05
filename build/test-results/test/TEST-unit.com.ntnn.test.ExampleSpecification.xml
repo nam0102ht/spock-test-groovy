@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unit.com.ntnn.test.ExampleSpecification" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-09-05T17:00:08" hostname="DESKTOP-NMMQ29K" time="0.762">
+  <properties/>
+  <testcase name="should a simple to compare" classname="unit.com.ntnn.test.ExampleSpecification" time="0.212"/>
+  <testcase name="should demonstrate given-when-then" classname="unit.com.ntnn.test.ExampleSpecification" time="0.029"/>
+  <testcase name="should expect Exception to be  thrown for invalid input: -1" classname="unit.com.ntnn.test.ExampleSpecification" time="0.017"/>
+  <testcase name="should expect Exception to be  thrown for invalid input: 0" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should expect Exception to be  thrown for invalid input: 1" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should expect Exception to be  thrown for invalid input: 2" classname="unit.com.ntnn.test.ExampleSpecification" time="0.001"/>
+  <testcase name="should expect Exception to be  thrown for invalid input: #sides" classname="unit.com.ntnn.test.ExampleSpecification" time="0.034"/>
+  <testcase name="should be able to create a polygon with 3 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to create a polygon with 4 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to create a polygon with 5 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to create a polygon with 6 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to create a polygon with 7 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.001"/>
+  <testcase name="should be able to create a polygon with 8 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to create a polygon with 9 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.001"/>
+  <testcase name="should be able to create a polygon with 10 side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.001"/>
+  <testcase name="should be able to create a polygon with #sides side" classname="unit.com.ntnn.test.ExampleSpecification" time="0.007"/>
+  <testcase name="should demonstrate data tables. Max of 1 and 3 should be 3" classname="unit.com.ntnn.test.ExampleSpecification" time="0.004"/>
+  <testcase name="should demonstrate data tables. Max of 7 and 4 should be 7" classname="unit.com.ntnn.test.ExampleSpecification" time="0.001"/>
+  <testcase name="should demonstrate data tables. Max of 0 and 0 should be 0" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should demonstrate data tables. Max of #a and #b should be #c" classname="unit.com.ntnn.test.ExampleSpecification" time="0.008"/>
+  <testcase name="should be able to mock a concrete class" classname="unit.com.ntnn.test.ExampleSpecification" time="0.442"/>
+  <testcase name="should be able to use a stub with RED" classname="unit.com.ntnn.test.ExampleSpecification" time="0.023"/>
+  <testcase name="should be able to use a stub with BLUE" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to use a stub with YELLOW" classname="unit.com.ntnn.test.ExampleSpecification" time="0.0"/>
+  <testcase name="should be able to use a stub with #colors" classname="unit.com.ntnn.test.ExampleSpecification" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
